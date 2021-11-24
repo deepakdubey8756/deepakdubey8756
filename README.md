@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepakdubey8756
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in Data Science, blockchains, and  metaverse.
 - 🌱 I’m currently exploring machine learning.
 - 💞️ I’m looking to collaborate on data Science and react native related projects.
