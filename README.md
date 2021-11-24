@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepakdubey8756
-- 👀 I’m interested in A.l, machine learning, I.O.T
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Data Science, blockchains, and  metaverse.
+- 🌱 I’m currently exploring machine learning.
+- 💞️ I’m looking to collaborate on data Science and react native related projects.
 - 📫 reach me by mailing at dubeydeepak8756@gmail.com
 
 <!---
