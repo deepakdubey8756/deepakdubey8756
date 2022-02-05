@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Data Science, blockchains, and  metaverse.
-- 🌱 I’m currently exploring machine learning.
-- 💞️ I’m looking to collaborate on data Science and react native related projects.
+- 👀 I’m interested in blockchain, AI, metaverse.
+- 🌱 I’m currently exploring web3..
+- 💞️ I’m looking to collaborate on blockchain and web3 related projects
 - 📫 reach me by mailing at dubeydeepak8756@gmail.com
 
 <!---
