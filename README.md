@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Web and mobile development, AI and cybersecurity.
-- 🌱 I’m currently exploring web3..
-- 💞️ I’m looking to collaborate on Mearn related development projects..
+- 👀 I’m interested in Web, App and Blockchain related development.
+- 🌱 I’m currently exploring web3.0 .
+- 💞️ I’m looking to collaborate on development related projects.
 - 📫 reach me by mailing at dubeydeepak8756@gmail.com
 
 <!---
